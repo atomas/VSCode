@@ -5,7 +5,7 @@ for(var a=1;a<4;a++){
 }
 
 <<<<<<< HEAD
-var c = 4;
+var b = c;
 =======
 var b = c;
 >>>>>>> master
